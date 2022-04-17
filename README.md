@@ -4,6 +4,8 @@
 ## Overview
 The purpose of this project is to create a story to convince investors that a bike-sharing program in Des Moines is a solid business proposal. Therefore, Tableau is used to demonstrate the analysis results through visuals. The Tableau workbook contains a story that walks through the important visuals that will help stakeholders understand what Citibikes' success and engagement is in New York.
 
+[link to dashboard](https://public.tableau.com/app/profile/hristo5780/viz/Module14Challenge_16499930886870/DesMoinesCityBikeProposal?publish=yes)
+
 ## Results 
 
 Below are the visuals that are seen in the story within Tableau. Each story point represents a message that is being conveyed to the stakeholders.
