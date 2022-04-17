@@ -24,21 +24,29 @@ Below are the visuals that are seen in the story within Tableau. Each story poin
 * Weekend rides are highest from 10:00 AM to 7:00 PM
 
 ### Checkout Times - (Story point 3)
+![image](https://user-images.githubusercontent.com/96553992/163725948-d0944c60-d526-41b3-b90d-507bcbb6c75c.png)
+
 * Quick trips are very popular. Users’ trips are usually less than one hour.
 * After four hours of trip duration, the number of rides is consistent.
 
-### Checkout Times by Gender
+### Checkout Times by Gender - Story point 4
+<img width="1195" alt="Screen Shot 2022-04-17 at 1 37 41 PM" src="https://user-images.githubusercontent.com/96553992/163726003-e842b91d-fdf7-486a-b176-fb86f6454c60.png">
+
 * Males in general use the bikes more through different hours in the day
 * 7am and 8am have very similar use trends for males and females.
 
 
-### Trips by Gender (Weekday per Hour) - (Story point 4)
+### Trips by Gender (Weekday per Hour) - (Story point 5)
+<img width="640" alt="Screen Shot 2022-04-17 at 1 38 37 PM" src="https://user-images.githubusercontent.com/96553992/163726041-3284c68e-b47d-42c8-81a7-6943145df56f.png">
+
 * After midnight, use of bikes is low but is still used.
 * Evenings are when most rides happen.
 * Female and Male heatmaps are very similar to peak times
 * Saturday middays are popular times for citbikes to be used
 
-### User Trips by Gender by Weekday - (Story point 5)
+### User Trips by Gender by Weekday - (Story point 6)
+<img width="732" alt="Screen Shot 2022-04-17 at 1 38 53 PM" src="https://user-images.githubusercontent.com/96553992/163726047-c47fa11a-8b92-4133-b77d-0cfc374d45a3.png">
+
 * Thursday is a highest use day by subscribers which make up most users both male and female
 * Sunday is the least bike use day for all genders.
 * Unknown genders follow the same trend as other genders.
